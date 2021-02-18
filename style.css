@@ -1,0 +1,11 @@
+.flex {
+  display: flex;
+  width: 600px;
+  flex: 100%;
+}
+
+.image {
+  margin: 2%;
+  flex: 50%;
+  width: 250px;
+}
